@@ -1,0 +1,17 @@
+{
+  "name": "mapty-project",
+  "version": "1.0.0",
+  "description": "'A demo of OOP in JS''",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Jerome Jumah",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  },
+  "dependencies": {
+    "core-js": "^3.24.0"
+  }
+}
